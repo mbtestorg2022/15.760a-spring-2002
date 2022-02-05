@@ -4,23 +4,192 @@ title: Calendar
 uid: 3b5ba6a9-c022-063d-367c-4fa2a7bf5a79
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Introduction  {{< br >}}Operations Overview |
-| 2 | Project Management  {{< br >}}New Product Development & 3-DCE |
-| 3 | Operations Strategy  {{< br >}}Operations Analysis |
-| 4 | Inventory Management |
-| 5 | Process Technology |
-| 6 | Process Technology |
-| 7 | Process Technology  {{< br >}}ERP Systems |
-| 8 | Process Analysis  {{< br >}}Process Flow Models |
-| 9 | Process Quality |
-| 10 | Process Analysis  {{< br >}}Queueing Systems |
-| 11 | Process Quality  {{< br >}}Quality Tools and Philosophies |
-| 12 | Process Quality  {{< br >}}Toyota Production System |
-| 13 | Process Quality  {{< br >}}Toyota Production System |
-| 14 | Process Quality |
-| 15 | Process Quality  {{< br >}}Management of Constraints |
-| 16 | Supply Chain Design |
-| 17 | Supply Chain Management  {{< br >}}Postponement |
-| 18 | Supply Chain Management  {{< br >}}Vendor-managed Inventory
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction  
+Operations Overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Project Management  
+New Product Development & 3-DCE
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Operations Strategy  
+Operations Analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory Management
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Process Technology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Process Technology
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Process Technology  
+ERP Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Process Analysis  
+Process Flow Models
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Process Quality
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Process Analysis  
+Queueing Systems
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Process Quality  
+Quality Tools and Philosophies
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Process Quality  
+Toyota Production System
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Process Quality  
+Toyota Production System
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Process Quality
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Process Quality  
+Management of Constraints
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Supply Chain Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Supply Chain Management  
+Postponement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Supply Chain Management  
+Vendor-managed Inventory
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

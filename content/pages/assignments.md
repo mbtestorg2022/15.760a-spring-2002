@@ -4,27 +4,502 @@ title: Assignments
 uid: e32fe1d5-da9f-30cc-60c0-6a4e9f4b3fab
 ---
 
-| LEC # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Introduction  {{< br >}}  {{< br >}}Operations Overview | **Questions** {{< br >}}{{< br >}} What are the key differences in the way Nokia and Ericsson handled the crisis prompted by the Albuquerque plant fire? {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Project Management {{< br >}}{{< br >}} New Product Development & 3-DCE {{< br >}}{{< br >}}  | **Assignment** {{< br >}}{{< br >}} Go through the two readings & the Dreamcast case.  {{< br >}}  {{< br >}}1. Describe the challenge faced by Sega in the context of 3-D CE; what must they do in product development, process development, and supply chain development.  {{< br >}}  {{< br >}}2. How should success of the Dreamcast project be measured? Draw a CPM diagram for the successful launch of the Dreamcast project. Based on the qualitative information on the case, what do you think will be the critical path? {{< br >}}{{< br >}} 3. Should the release of Dreamcast occur on the originally planned date? Use decision tree analysis to support your advice.  {{< br >}}  {{< br >}}4. In the Assignment folder on the server, you will find an Excel file with data for a fictitious video game platform project. Answer the first three questions in the file. Filename: VideoLaunch.xls ([XLS]({{< baseurl >}}/resources/videolaunch)) {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Operations Strategy {{< br >}}{{< br >}} Operations Analysis {{< br >}}{{< br >}}  | **Questions** {{< br >}}{{< br >}} 1\. Draw a process flow diagram for hamburger production at Burger King. (What are the major process steps and where are the locations of inventories?) {{< br >}}{{< br >}} 2\. Qualitatively, why do you think the locations/quantities of inventories are where/what they are? {{< br >}}{{< br >}} 3\. Analyze the peak hourly capacity vs. peak hourly demand for burger patties. Can they produce enough burgers? {{< br >}}{{< br >}} 4\. What, if anything, seems noteworthy about the process technologies in use at Burger King? {{< br >}}{{< br >}} 5\. How does the management of operations relate to the company's method of competing in the marketplace? {{< br >}}{{< br >}}  |
-| 4 | Inventory Management | **Assignment** {{< br >}}{{< br >}} 1\. Read "A Note on Relevant Costs" and then work the two problems in the "Inventory Problems" handout. {{< br >}}{{< br >}} 2\. Read pp. 71-75 from _Clockspeed_ on Dell and the article on Dell called **Automate or Die** by Stacy Perman in Business 2.0. {{< br >}}{{< br >}} 3\. Read the article on Quanta: _Laptop King from Business Week._ {{< br >}}{{< br >}} 4\. Can you explain the role of inventory management and tools in the strategies and outcomes of the companies described? {{< br >}}{{< br >}}  |
-| 5 | Process Technology | **Questions** {{< br >}}{{< br >}} 1\. What are important characteristics of services vs. manufactured products? {{< br >}}{{< br >}} 2. In what sense must AA concurrently develop product & process? {{< br >}}{{< br >}} 3. What are the key operations tasks that AA must accomplish? {{< br >}}{{< br >}} 4\. Can "self-service through technology" provide a "sustainable competitive advantage" for AA? {{< br >}}{{< br >}} 5\. Why use hubs? {{< br >}}{{< br >}}  |
-| 6 | Process Technology | **Assignment** {{< br >}}{{< br >}} Take the position of a consultant to Webvan. Write a memo to the CEO of Webvan, providing him with your assessment of the Webvan operations model and business model _based solely on the information available in the case_. Include in your assessment some analysis of the value proposition to customers as well as the value proposition to investors. (i.e., how profitable will Webvan likely be?) (Max length: 1500 words & six supporting exhibits.) {{< br >}}{{< br >}} We all know that Webvan went broke. Feel free to take the position either that the business could make money (and provide the assumptions and/or analysis and/or creative ideas that support your position) or that the business is hopeless. If you take the latter position, you still need to back up your assessment with an analysis of why you concluded what you did. (i.e., what _specifically_ are the flaws in the business model or operations assumptions?) {{< br >}}{{< br >}}  |
-| 7 | Process Technology {{< br >}}{{< br >}} ERP Systems {{< br >}}{{< br >}}  | **Questions** {{< br >}}{{< br >}} 1. What factors made the difference between success and failure in Cisco's ERP (Enterprise Resource Planning) implementation ? {{< br >}}{{< br >}} 2. What is the role of the ERP system in Cisco's overall Information System Architecture ? {{< br >}}{{< br >}} 3. How would you sell ERP to a Board of Directors? {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Process Analysis {{< br >}}{{< br >}} Process Flow Models {{< br >}}{{< br >}}  | **Questions** {{< br >}}{{< br >}} 1\. What are the main lessons from the cannery example in the note on "Inventory Buildup Diagrams"? {{< br >}}{{< br >}} 2\. What factors and tradeoffs do you need to consider in designing a production system? Are service systems different? {{< br >}}{{< br >}} 3\. What are the broad sources of variabilities in production and service systems? What are some operational strategies to: (i) respond to variability (e.g., in demand), and (ii) reduce variability? {{< br >}}{{< br >}} **Exercise  {{< br >}}  {{< br >}}**Solve the "Queueing Problems." {{< br >}}{{< br >}}  |
-| 9 | Process Quality | **Questions** {{< br >}}{{< br >}} 1\. What are the problems facing receiving plant No. 1 (RPI)? {{< br >}}{{< br >}} 2\. What industry trends are likely to affect cranberry processing and how? {{< br >}}{{< br >}} 3\. What are the sources of the variability that NCC is subjected to? {{< br >}}{{< br >}} 4\. Develop a process flow diagram, showing the capacities of the various stages in barrels per hour. {{< br >}}{{< br >}} 5\. Suppose that a peak harvest-season day involves 18,000 barrels of berries, 70% of them wet harvested, arriving over a twelve-hour period from 7 am to 7 pm. Would trucks have to wait to unload? When during the day would trucks be waiting? How much truck waiting time would you expect? {{< br >}}{{< br >}} 6\. How would the various actions contemplated by Hugo Schaeffer affect peak day performance? Suppose the cost of renting cranberry trucks with drivers is $10.00 per hour. What would you recommend? Why? {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Process Analysis {{< br >}}{{< br >}} Queueing Systems {{< br >}}{{< br >}}  | **Questions** {{< br >}}{{< br >}} 1\. Draw a process flow diagram that reflects the current UHS walk-in clinic operations. {{< br >}}{{< br >}} 2\. What are the sources of variability in this system? {{< br >}}{{< br >}} 3\. Using the average service rate for nurse practitioners given in the case, compute their utilization rate, averaged over the whole week. Compute their utilization rate for the peak hour, Mondays, 8:00-9:00am. What assumptions did you make to get these answers? {{< br >}}{{< br >}} 4\. Perform the same analysis for the doctors, assuming that the clinic operates without allowing patient requests for specific providers. {{< br >}}{{< br >}} 5\. Use the queueing models to compute the mean waiting time in queue for nurse practitioners. Try to explain any discrepancies you find. How can theoretical queueing models provide additional insight? {{< br >}}{{< br >}} 6\. What recommendations would you make to improve service at the walk-in clinic? {{< br >}}{{< br >}} (NOTE: This week might provide an ideal opportunity to begin reading _The Goal_, to be read for class by Lecture #13.) {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Process Quality {{< br >}}{{< br >}} Quality Tools and Philosophies {{< br >}}{{< br >}}  | **Questions** {{< br >}}{{< br >}} 1\. Why does Motorola strive for 6s quality? Why not 3s, 5s, or 7s? {{< br >}}{{< br >}} 2\. Was TQM a fad? Useful at the time? No longer relevant? {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Process Quality {{< br >}}{{< br >}} Toyota Production System {{< br >}}{{< br >}}  | **Questions** {{< br >}}{{< br >}} 1\. What are the principles of the Toyota Production System? {{< br >}}{{< br >}} 2\. As Doug Friesen, what would you do to address the seat problem? Where would you focus your attention and solution efforts? What options exist? What would you recommend? Why? {{< br >}}{{< br >}} 3\. Where, if at all, does the current routine for handling defective seats deviate from the principles of the Toyota Production System? {{< br >}}{{< br >}} 4\. What are the underlying causes of the problems facing Doug Friesen? {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Process Quality {{< br >}}{{< br >}} Toyota Production System {{< br >}}{{< br >}}  | **Questions** {{< br >}}{{< br >}} 1\. What are the principles of the Toyota Production System? {{< br >}}{{< br >}} 2\. As Doug Friesen, what would you do to address the seat problem? Where would you focus your attention and solution efforts? What options exist? What would you recommend? Why? {{< br >}}{{< br >}} 3\. Where, if at all, does the current routine for handling defective seats deviate from the principles of the Toyota Production System? {{< br >}}{{< br >}} 4\. What are the underlying causes of the problems facing Doug Friesen? {{< br >}}{{< br >}}  |
-| 14 | Process Quality | **Questions** {{< br >}}{{< br >}} 1\. Of the "Six Tools" in the Memory Jogger, which are potentially helpful in organizing your thoughts on the Bank of America case? {{< br >}}{{< br >}} 2\. In broad terms, what are the problems being encountered in Accounts Receivable, and what are the basic sources of those problems? {{< br >}}{{< br >}} 3\. What fundamental principles should be applied in redesigning the Accounte Receivable process? {{< br >}}{{< br >}} 4\. What are your specific recommendations? {{< br >}}{{< br >}}  |
-| 15 |  {{< br >}}{{< br >}} Process Quality {{< br >}}{{< br >}} Management of Constraints {{< br >}}{{< br >}}  | **Written Assignment** {{< br >}}{{< br >}} Book review of _The Goal_. {{< br >}}{{< br >}} **Questions** {{< br >}}{{< br >}} Prepare a summary of the wisdom of Jonah. Critique this wisdom. Critique this book as an operations management text. (Four double-spaced pages maximum for the write up.) {{< br >}}{{< br >}}  |
-| 16 | Supply Chain Design | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} Supply Chain Management {{< br >}}{{< br >}} Postponement {{< br >}}{{< br >}}  | **Questions** {{< br >}}{{< br >}} 1\. What are the industry characteristics, the product characteristics, and the supply chain characteristics? {{< br >}}{{< br >}} 2\. What has caused the so-called Inventory/Service "Crisis"? {{< br >}}{{< br >}} 3\. What are the important "drivers" of safety stock? {{< br >}}{{< br >}} 4\. Propose an optimal ordering policy for European options AB. {{< br >}}{{< br >}} 5\. Evaluate the various alternatives available to Brent Cartier to address the inventory and service problem. {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} Supply Chain Management {{< br >}}{{< br >}} Vendor-Managed Inventory {{< br >}}{{< br >}}  | **Questions** {{< br >}}{{< br >}} 1\. Diagnose the underlying causes of the difficulties that the JITD program was created to solve. What are the benefits and drawbacks of this program? {{< br >}}{{< br >}} 2\. What conflicts or barriers internal to Barilla does the JITD program create? What causes these conflicts? As Giorgio Maggiali, how would you deal with these? {{< br >}}{{< br >}} 3\. As one of Barilla's customers, what would your response to JITD be? Why? {{< br >}}{{< br >}} 4\. In the environment in which Barilla operated in 1990, do you believe JITD (or a similar kind of program) would be feasible? Effective? If so, which customers would you target next? How would you convince them that the JITD program was worth trying? If not, what alternatives would you suggest to combat some of the difficulties that Barilla's operating system faces? {{< br >}}{{< br >}}  |
-| 19 |  {{< br >}}{{< br >}} Process Quality {{< br >}}{{< br >}} Quality Tools and Philosophies {{< br >}}{{< br >}}  | **Questions** {{< br >}}{{< br >}} 1\. Why does Motorola strive for 6s quality? Why not 3s, 5s, or 7s? {{< br >}}{{< br >}} 2\. Was TQM a fad? Useful at the time? No longer relevant? {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction  
+  
+Operations Overview
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+What are the key differences in the way Nokia and Ericsson handled the crisis prompted by the Albuquerque plant fire?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project Management
+
+New Product Development & 3-DCE
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Assignment**
+
+Go through the two readings & the Dreamcast case.  
+  
+1. Describe the challenge faced by Sega in the context of 3-D CE; what must they do in product development, process development, and supply chain development.  
+  
+2. How should success of the Dreamcast project be measured? Draw a CPM diagram for the successful launch of the Dreamcast project. Based on the qualitative information on the case, what do you think will be the critical path?
+
+3. Should the release of Dreamcast occur on the originally planned date? Use decision tree analysis to support your advice.  
+  
+4. In the Assignment folder on the server, you will find an Excel file with data for a fictitious video game platform project. Answer the first three questions in the file. Filename: VideoLaunch.xls ([XLS]({{< baseurl >}}/resources/videolaunch))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Operations Strategy
+
+Operations Analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. Draw a process flow diagram for hamburger production at Burger King. (What are the major process steps and where are the locations of inventories?)
+
+2\. Qualitatively, why do you think the locations/quantities of inventories are where/what they are?
+
+3\. Analyze the peak hourly capacity vs. peak hourly demand for burger patties. Can they produce enough burgers?
+
+4\. What, if anything, seems noteworthy about the process technologies in use at Burger King?
+
+5\. How does the management of operations relate to the company's method of competing in the marketplace?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory Management
+{{< tdclose >}}
+{{< tdopen >}}
+**Assignment**
+
+1\. Read "A Note on Relevant Costs" and then work the two problems in the "Inventory Problems" handout.
+
+2\. Read pp. 71-75 from _Clockspeed_ on Dell and the article on Dell called **Automate or Die** by Stacy Perman in Business 2.0.
+
+3\. Read the article on Quanta: _Laptop King from Business Week._
+
+4\. Can you explain the role of inventory management and tools in the strategies and outcomes of the companies described?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Process Technology
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. What are important characteristics of services vs. manufactured products?
+
+2. In what sense must AA concurrently develop product & process?
+
+3. What are the key operations tasks that AA must accomplish?
+
+4\. Can "self-service through technology" provide a "sustainable competitive advantage" for AA?
+
+5\. Why use hubs?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Process Technology
+{{< tdclose >}}
+{{< tdopen >}}
+**Assignment**
+
+Take the position of a consultant to Webvan. Write a memo to the CEO of Webvan, providing him with your assessment of the Webvan operations model and business model _based solely on the information available in the case_. Include in your assessment some analysis of the value proposition to customers as well as the value proposition to investors. (i.e., how profitable will Webvan likely be?) (Max length: 1500 words & six supporting exhibits.)
+
+We all know that Webvan went broke. Feel free to take the position either that the business could make money (and provide the assumptions and/or analysis and/or creative ideas that support your position) or that the business is hopeless. If you take the latter position, you still need to back up your assessment with an analysis of why you concluded what you did. (i.e., what _specifically_ are the flaws in the business model or operations assumptions?)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Process Technology
+
+ERP Systems
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1. What factors made the difference between success and failure in Cisco's ERP (Enterprise Resource Planning) implementation ?
+
+2. What is the role of the ERP system in Cisco's overall Information System Architecture ?
+
+3. How would you sell ERP to a Board of Directors?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Process Analysis
+
+Process Flow Models
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. What are the main lessons from the cannery example in the note on "Inventory Buildup Diagrams"?
+
+2\. What factors and tradeoffs do you need to consider in designing a production system? Are service systems different?
+
+3\. What are the broad sources of variabilities in production and service systems? What are some operational strategies to: (i) respond to variability (e.g., in demand), and (ii) reduce variability?
+
+**Exercise  
+  
+**Solve the "Queueing Problems."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Process Quality
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. What are the problems facing receiving plant No. 1 (RPI)?
+
+2\. What industry trends are likely to affect cranberry processing and how?
+
+3\. What are the sources of the variability that NCC is subjected to?
+
+4\. Develop a process flow diagram, showing the capacities of the various stages in barrels per hour.
+
+5\. Suppose that a peak harvest-season day involves 18,000 barrels of berries, 70% of them wet harvested, arriving over a twelve-hour period from 7 am to 7 pm. Would trucks have to wait to unload? When during the day would trucks be waiting? How much truck waiting time would you expect?
+
+6\. How would the various actions contemplated by Hugo Schaeffer affect peak day performance? Suppose the cost of renting cranberry trucks with drivers is $10.00 per hour. What would you recommend? Why?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Process Analysis
+
+Queueing Systems
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. Draw a process flow diagram that reflects the current UHS walk-in clinic operations.
+
+2\. What are the sources of variability in this system?
+
+3\. Using the average service rate for nurse practitioners given in the case, compute their utilization rate, averaged over the whole week. Compute their utilization rate for the peak hour, Mondays, 8:00-9:00am. What assumptions did you make to get these answers?
+
+4\. Perform the same analysis for the doctors, assuming that the clinic operates without allowing patient requests for specific providers.
+
+5\. Use the queueing models to compute the mean waiting time in queue for nurse practitioners. Try to explain any discrepancies you find. How can theoretical queueing models provide additional insight?
+
+6\. What recommendations would you make to improve service at the walk-in clinic?
+
+(NOTE: This week might provide an ideal opportunity to begin reading _The Goal_, to be read for class by Lecture #13.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Process Quality
+
+Quality Tools and Philosophies
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. Why does Motorola strive for 6s quality? Why not 3s, 5s, or 7s?
+
+2\. Was TQM a fad? Useful at the time? No longer relevant?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Process Quality
+
+Toyota Production System
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. What are the principles of the Toyota Production System?
+
+2\. As Doug Friesen, what would you do to address the seat problem? Where would you focus your attention and solution efforts? What options exist? What would you recommend? Why?
+
+3\. Where, if at all, does the current routine for handling defective seats deviate from the principles of the Toyota Production System?
+
+4\. What are the underlying causes of the problems facing Doug Friesen?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Process Quality
+
+Toyota Production System
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. What are the principles of the Toyota Production System?
+
+2\. As Doug Friesen, what would you do to address the seat problem? Where would you focus your attention and solution efforts? What options exist? What would you recommend? Why?
+
+3\. Where, if at all, does the current routine for handling defective seats deviate from the principles of the Toyota Production System?
+
+4\. What are the underlying causes of the problems facing Doug Friesen?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Process Quality
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. Of the "Six Tools" in the Memory Jogger, which are potentially helpful in organizing your thoughts on the Bank of America case?
+
+2\. In broad terms, what are the problems being encountered in Accounts Receivable, and what are the basic sources of those problems?
+
+3\. What fundamental principles should be applied in redesigning the Accounte Receivable process?
+
+4\. What are your specific recommendations?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Process Quality
+
+Management of Constraints
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Written Assignment**
+
+Book review of _The Goal_.
+
+**Questions**
+
+Prepare a summary of the wisdom of Jonah. Critique this wisdom. Critique this book as an operations management text. (Four double-spaced pages maximum for the write up.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Supply Chain Design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Supply Chain Management
+
+Postponement
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. What are the industry characteristics, the product characteristics, and the supply chain characteristics?
+
+2\. What has caused the so-called Inventory/Service "Crisis"?
+
+3\. What are the important "drivers" of safety stock?
+
+4\. Propose an optimal ordering policy for European options AB.
+
+5\. Evaluate the various alternatives available to Brent Cartier to address the inventory and service problem.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Supply Chain Management
+
+Vendor-Managed Inventory
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. Diagnose the underlying causes of the difficulties that the JITD program was created to solve. What are the benefits and drawbacks of this program?
+
+2\. What conflicts or barriers internal to Barilla does the JITD program create? What causes these conflicts? As Giorgio Maggiali, how would you deal with these?
+
+3\. As one of Barilla's customers, what would your response to JITD be? Why?
+
+4\. In the environment in which Barilla operated in 1990, do you believe JITD (or a similar kind of program) would be feasible? Effective? If so, which customers would you target next? How would you convince them that the JITD program was worth trying? If not, what alternatives would you suggest to combat some of the difficulties that Barilla's operating system faces?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Process Quality
+
+Quality Tools and Philosophies
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+**Questions**
+
+1\. Why does Motorola strive for 6s quality? Why not 3s, 5s, or 7s?
+
+2\. Was TQM a fad? Useful at the time? No longer relevant?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "writtenassignments" >}}{{< /anchor >}}Written Assignments
 ---------------------------------------------------------------------
